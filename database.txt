@@ -4,3 +4,5 @@ purcell_2009_1,2009,purcell,willey, kalkulus
 faqiza_2009_1,2019,faqiza,gramedia, belajar C++
 faqiza_2009_2,2019,faqiza,gramedia,python
 faqiza_2009_3,2019,faqiza,gramedia,java
+yayat_2020_1,2020,yayat,gramedia,kembang desa
+bobi_2013_1,2013,bobi,gramedia,great advanture

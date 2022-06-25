@@ -1,6 +1,6 @@
-    while (scanner2.hasNext()) {
-        System.out.println(scanner2.next());
+public static String name(String message)  {
+    String hello="hello"+message;
 
-        
-    }
-    
+    return hello;
+
+}
